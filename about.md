@@ -1,5 +1,5 @@
 ---
-title: About this website
+title: About me
 ---
 
 Hey guys! My name is rifteyy.
