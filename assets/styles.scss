@@ -2,11 +2,12 @@
 title: false
 styles: true
 ---
-
-$accentColour: #3d31b8;
-$linkColour: #3d31b8;
-$hoverColour: darken(#3d31b8, 10%);
-$focusColour: lighten(#3d31b8, 15%);
-$btnColor: #3d31b8;
+$headingColour: #3d31b8 !default;
+$bodyColour: #384743 !default;
+$linkColour: #3d31b8 !default;
+$hoverColour: darken(#3d31b8, 10%) !default;
+$focusColour: lighten(#3d31b8, 15%) !default;
+$captionColour: #a8adac !default;
+$white: #ffffff !default;
 
 @import "alembic";
