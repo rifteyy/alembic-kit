@@ -3,9 +3,10 @@ title: false
 styles: true
 ---
 
+$accentColour: #3d31b8;
+$linkColour: #3d31b8;
+$hoverColour: darken(#3d31b8, 10%);
+$focusColour: lighten(#3d31b8, 15%);
+$btnColor: #3d31b8;
 
-$accentColour: #3d31b8 !default;
-$linkColour: #3d31b8 !default;
-$hoverColour: darken(#3d31b8, 10%) !default;
-$focusColour: lighten(#3d31b8, 15%) !default;
-$btnColor: #3d31b8 !default;
+@import "alembic";
