@@ -4,7 +4,6 @@ categories:
 - Malware
 ---
 
-## Packed or protected applications
 Packed or protected applications are nothing new. Some legitimate software such as Steam games use it ([Antivirus detected "Win64/Packed.Themida.L" after update 29th april](https://steamcommunity.com/app/553850/discussions/2/4358997997661686219/) or [# False Positive in Helldivers 2](https://forum.eset.com/topic/40894-false-positive-in-helldivers-2/), [Themida - You can't play this game any more](https://steamcommunity.com/app/383120/discussions/0/1608274347724504289/)). Why do they use it, though and what is the problem of it?
 
 ### Purpose of packers
