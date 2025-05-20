@@ -4,9 +4,12 @@ title: About me
 
 Hey guys! I come by the nickname rifteyy.
 
-I am 18 years old cybersecurity student and I live in Czech Republic. 🇨🇿 I started working with computers in my early years, because my father used to be a system administrator in a couple of companies. While my father taught me basics about using a computer, I self-taught my passion and that is cybersecurity. 
+I am 18 years old cybersecurity student and I live in Czech Republic. 🇨🇿 My dream one day is to become a malware analyst or SOC analyst.
 
-I have a passion for everything regarding **malware** and security software.
+I started working with computers in my early years, because my father used to be a system administrator in a couple of companies. While my father taught me basics about using a computer, it was through self-learning that I discovered and pursued my true passion and that is cybersecurity.
+
+In 2016, I discovered a website that I always keep returning to - VirusTotal. VirusTotal is a online file sandbox known for it's static file analysis done by many trusted anti-malware software vendors, such as BitDefender, Sophos, ESET, Avast and more. From here, my interest grew even further and I started reading forums about malware removal. The forum was [Viry.cz](https://forum.viry.cz/) forum - almost equivalent to [BleepingComputer](https://www.bleepingcomputer.com/forums/), but in the Czech language. It fascinated me that the admins always knew what to do, what to delete and recommend. I read over 3000 of these posts and learned to use the malware removal tools - such as [FRST](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/) (previously RSIT and HijackThis)
+
 Some of my current projects in regards to malware: 
 
 - [BATRAT](https://github.com/rifteyy/batrat) - Fast, lightweight remote administration tool coded in Batch and PowerShell. Contains basic RAT functions - keylogging, sending IP address, detect VPN/Tor/Proxy, set persistency, download/upload files and many more.
