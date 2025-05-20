@@ -1,6 +1,5 @@
 ---
-title: Welcome to rifteyy's blog!
-feature_image: "https://i.pinimg.com/736x/d8/ff/45/d8ff4507223f5d22b12842c2a2f551bb.jpg"
+title: Welcome to my blog!
 feature_text: |
   ## Hello there!
 ---
