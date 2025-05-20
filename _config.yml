@@ -52,7 +52,7 @@ collections:
     title: Posts
     output: true
     description: "My thoughts and ideas"
-    feature_image: "https://i.pinimg.com/1200x/d4/1e/c5/d41ec5a09270c962e211b2d53753bc21.jpg"
+    feature_image: "https://i.pinimg.com/originals/12/f1/c7/12f1c717c848ca9da6b38d83bef0ecc4.gif"
 
 # Collection settings
 defaults:
