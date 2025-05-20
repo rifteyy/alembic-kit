@@ -1,6 +1,6 @@
 ---
 title: Welcome to rifteyy's blog!
-feature_image: "https://cdn.discordapp.com/banners/772728190418026537/d8506206c2fbf423064b4aac9d4e2569.png?size=1024"
+feature_image: "https://i.pinimg.com/736x/d8/ff/45/d8ff4507223f5d22b12842c2a2f551bb.jpg"
 feature_text: |
   ## Hello there!
 ---
