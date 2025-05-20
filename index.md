@@ -1,5 +1,5 @@
 ---
-title: rifteyy's blog!
+title: Welcome to rifteyy's blog!
 feature_text: |
   ## Hello there! 👋
 ---
