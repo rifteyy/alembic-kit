@@ -26,7 +26,7 @@ baseurl: ''
 title: 'rifteyy'
 description: "rifteyy's blog"
 permalink: pretty
-logo: "https://i.pinimg.com/originals/12/f1/c7/12f1c717c848ca9da6b38d83bef0ecc4.gif"
+logo: "https://raw.githubusercontent.com/rifteyy/alembic-kit/refs/heads/master/img/pfp.png"
 
 # Pagination
 paginate: 5
