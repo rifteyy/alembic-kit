@@ -2,7 +2,9 @@
 title: About me
 ---
 
-Hey guys! My name is rifteyy.
+Hey guys! I come by the nickname rifteyy.
+
+I am 18 years old cybersecurity student and I live in Czech Republic. 🇨🇿 I started working with computers in my early years, because my father used to be a system administrator in a couple of companies. While my father taught me basics about using a computer, I self-taught my passion and that is cybersecurity. 
 
 I have a passion for everything regarding **malware** and security software.
 Some of my current projects in regards to malware: 
