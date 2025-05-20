@@ -1,7 +1,7 @@
 ---
-title: Welcome to my blog!
+title: rifteyy's blog!
 feature_text: |
-  ## Hello there!
+  ## Hello there! 👋
 ---
 
-There isn't much going on here yet, but watch this space
+I am going to be sharing my thoughts about cybersecurity (primarily about malware) and I will also post analysis on various malware that I find interesting.
